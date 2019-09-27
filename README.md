@@ -1,2 +1,2 @@
 # Learning List
-> _Learn to use tools and resource backups._
+> _Learn to use tools and resource backups_
